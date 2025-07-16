@@ -1,0 +1,6 @@
+[submodule "host"]
+	path = host
+	url = file:///D:/Mf-poc/host
+[submodule "remote-app"]
+	path = remote-app
+	url = file:///D:/Mf-poc/remote-app
